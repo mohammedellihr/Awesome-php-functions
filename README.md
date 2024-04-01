@@ -1,1 +1,1 @@
-# useful-php-codes
+# Awesome PHP Functions
